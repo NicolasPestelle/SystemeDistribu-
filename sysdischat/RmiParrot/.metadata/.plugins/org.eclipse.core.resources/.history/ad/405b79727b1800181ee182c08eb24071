@@ -1,0 +1,4 @@
+
+public class ParrotImpl2 extends Parrot{
+
+}

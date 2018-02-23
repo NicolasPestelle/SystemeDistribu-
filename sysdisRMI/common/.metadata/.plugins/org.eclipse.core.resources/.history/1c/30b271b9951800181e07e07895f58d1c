@@ -1,0 +1,20 @@
+import java.rmi.RemoteException;
+
+public class Client implements ClientImpl {
+
+	String name;
+
+	@Override
+	public void showName() throws RemoteException {
+		// TODO Auto-generated method stub
+		
+		
+	}
+	
+	
+	
+public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+}

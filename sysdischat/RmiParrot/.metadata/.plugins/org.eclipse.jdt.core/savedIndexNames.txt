@@ -1,0 +1,8 @@
+INDEX VERSION 1.130+/etudiants/npestell/Documents/systemeDistribue/sysdischat/RmiParrot/.metadata/.plugins/org.eclipse.jdt.core
+2672077958.index
+4099974906.index
+4003439101.index
+789304933.index
+565538428.index
+2054460335.index
+40729893.index

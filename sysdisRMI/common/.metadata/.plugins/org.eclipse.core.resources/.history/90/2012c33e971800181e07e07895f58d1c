@@ -1,0 +1,22 @@
+import java.rmi.RemoteException;
+
+public class Server implements ServerImpl {
+
+	@Override
+	public void RepeteMessage(String message) throws RemoteException {
+		// TODO Auto-generated method stub
+		System.out.println("" + message);
+	}
+
+	@Override
+	public void Register(ClientImpl client) throws RemoteException {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+	public static void main(String[] args) {
+		 new Server() ;
+	}
+
+}

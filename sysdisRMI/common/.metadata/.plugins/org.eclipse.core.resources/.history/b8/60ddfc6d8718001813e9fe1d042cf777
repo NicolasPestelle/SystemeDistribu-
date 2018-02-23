@@ -1,0 +1,8 @@
+import java.rmi.Remote;
+import java.rmi.RemoteException;
+
+public interface ServerImpl extends Remote{
+
+	public void RepeteMessage(String message) throws RemoteException;
+	public void Register(ClientInterface client) throws RemoteException;
+}
